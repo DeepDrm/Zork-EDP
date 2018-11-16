@@ -17,3 +17,4 @@ Include in the game:
 - Pure virtual functions *
 - Inline *
 - Switch *
+- Friend *
