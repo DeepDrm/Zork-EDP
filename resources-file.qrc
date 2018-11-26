@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/bg-teleport-button.png</file>
+        <file>images/controller.png</file>
+        <file>images/evil-corp.jpg</file>
+        <file>images/grey-bg.png</file>
+        <file>images/key-1.png</file>
+        <file>images/key-3.png</file>
+        <file>images/key-4.png</file>
+        <file>images/key-5.png</file>
+        <file>images/key-6.png</file>
+        <file>images/key-7.png</file>
+        <file>images/key-add1.png</file>
+        <file>images/main.jpg</file>
+        <file>images/map.jpg</file>
+        <file>images/red-cross.png</file>
+        <file>images/room-a.jpg</file>
+        <file>images/room-b.jpg</file>
+        <file>images/room-c.jpg</file>
+        <file>images/room-d.png</file>
+        <file>images/room-e.jpg</file>
+        <file>images/room-f.jpg</file>
+        <file>images/room-g.png</file>
+        <file>images/room-h.jpg</file>
+        <file>images/transparent.png</file>
+        <file>images/you-won.png</file>
+    </qresource>
+</RCC>
