@@ -17,4 +17,3 @@ Include in the game:
 - Inline
 - Switch
 - Friend
-- Default parameters
